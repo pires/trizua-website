@@ -14,6 +14,8 @@ cover-img: /assets/img/praia_mira_panorama_3.jpg
 
 <img src="/assets/img/meta.png" alt="TriZua" width="100%" height="auto">
 
+**Estacionamento:** É à _fartazana_, [masso](about)! E fica *colado* à meta.
+
 ## Distâncias
 
 O TriZua Edição ZERO oferece duas distâncias emocionantes para desafiar atletas de todos os níveis:
@@ -39,10 +41,14 @@ Não obstante, a querida organização disponibilizará na zona da meta/transiç
 
 ### Depois do treino
 
-- Duches fechados **por conta da organização** com água quente no **Mira Lodge Park**.
-
+- Duches fechados **por conta da organização** com água quente no **Mira Lodge Park**. 
 <img src="/assets/img/map_showers.png" alt="Mira Lodge Park" height="auto%" width="50%">
-
+- Massagens - ainda não sabemos muito bem como vamos gerir isto, mas vamos dar prioridade a quem tenha *queixas*.
 - Comida e bebida no **Nautic Bar - Vintage Caffé**.
   Os almoços dos atletas convidados ficam **por conta da organização**, sendo que os restantes assumem as suas próprias despesas.
   Se tens dúvidas, não hesites em contactar-nos por email (no fundo desta página).
+
+### Fotos e vídeos
+
+A organização poderá, eventualmente, partilhar nas suas redes sociais imagens ou vídeos captados durante o evento.
+Se não autorizarem que vos incluam em fotos e vídeos, por favor, tomem a iniciativa de o deixar bem claro a quem quer que ande a registar o evento, incluindo outros atletas.
