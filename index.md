@@ -33,12 +33,14 @@ Não, não há *Race Ranger*. Mas há uma espécie de *código de conduta* que p
 1. O local de transição é o mesmo em todas as disciplinas, sendo que também marca o início e a meta do treino.
 
 2. 💀 **Cada atleta é responsável pela sua integridade física** 💀
-   1. Ainda assim, e porque o perigo da natação está sempre presente, teremos **salva-vidas profissionais** no percurso. Por favor, **respeitem qualquer ordem** vinda dos mesmos!
+   1. Ainda assim, e porque o perigo da natação está sempre presente, teremos **salva-vidas profissionais** no percurso. Por favor, **respeita qualquer ordem** vinda dos mesmos!
+   2. No ciclismo, recomendamos que leves o telemóvel, caso aconteça algo indesejável.
+      No dia, ser-te-á fornecido um ou dois números de telemóvel para os quais poderás ligar.
 
 3. Os percursos **não** estão fechados para nosso uso exclusivo, logo:
-   1. Durante a natação, podem ter de se desviar de embarcações
-   2. Durante o ciclismo, aplicam-se as regras de trânsito, por isso atentem à sinalização
-   3. Durante a corrida, que será quase totalmente em via ciclo-pedestre, atentem nos outros utentes da ciclovia. Podem também encontrar carros numa parte pequena do percurso que faz de acesso a moradores.
+   1. Durante a natação, podes ter de te desviar de embarcações
+   2. Durante o ciclismo, aplicam-se as regras de trânsito, por isso atenta à sinalização
+   3. Durante a corrida, que será quase totalmente em via ciclo-pedestre, atenta nos outros utentes da mesma. Podes também encontrar carros numa parte pequena do percurso que faz de acesso a moradores da zona.
 
 4. Necessidades especiais de hidratação e nutrição ficam completamente a cargo de cada um.
    Não obstante, a querida organização disponibilizará na zona da meta/transição, o seguinte:
@@ -49,15 +51,19 @@ Não, não há *Race Ranger*. Mas há uma espécie de *código de conduta* que p
 
 5. 💩 **LIXO coloca-se em recipiente próprio**, e a querida organização irá ter caixotes do lixo na zona de transição.
 
+6. Teremos um mecänico no local, para o caso de haverem problemas mecänicos.
+
 ### Depois do treino
 
-1. Duches fechados com água quente no **Mira Lodge Park** (**por conta da organização**).
+1. Teremos um mecänico no local, para o caso de haverem problemas mecänicos e para uma limpeza das bikes após o treino.
+
+2. Duches fechados com água quente no **Mira Lodge Park** (**por conta da organização**).
   
   <img src="/assets/img/map_showers.png" alt="Mira Lodge Park" width="75%">
 
-2. Massagens - ainda não sabemos muito bem como vamos gerir isto, mas vamos dar prioridade a quem tenha *queixas*.
+3. Massagens - ainda não sabemos muito bem como vamos gerir isto, mas vamos dar prioridade a quem tenha *queixas*.
 
-3. Comes e bebes no **Nautic Bar - Vintage Caffé**.
+4. Comes e bebes no **Nautic Bar - Vintage Caffé**.
   Os almoços dos atletas convidados ficam **por conta da organização**, sendo que os restantes assumem as suas próprias despesas.
 
 Se tens dúvidas, não hesites em contactar-nos por email (no fundo desta página).
@@ -65,4 +71,4 @@ Se tens dúvidas, não hesites em contactar-nos por email (no fundo desta págin
 ### Fotos e vídeos
 
 A organização poderá, eventualmente, partilhar nas suas redes sociais imagens ou vídeos captados durante o evento.
-Se não autorizarem que vos incluam em fotos e vídeos, por favor, tomem a iniciativa de o deixar bem claro a quem quer que ande a registar o evento, incluindo outros atletas.
+Se não autorizares que te incluam em fotos e vídeos, por favor, toma a iniciativa de o deixar bem claro a quem quer que ande a registar o evento, incluindo outros atletas.
