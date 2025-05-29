@@ -42,8 +42,9 @@ Não, não há *Race Ranger*. Mas há uma espécie de *código de conduta* que p
 
 4. Necessidades especiais de hidratação e nutrição ficam completamente a cargo de cada um.
    Não obstante, a querida organização disponibilizará na zona da meta/transição, o seguinte:
-   - Água fresca engarrafada (33cl);
-   - Fruta fresca;
+   - Água fresca engarrafada (33cl)
+   - Isotónico, alguns géis e fast-recovery [**Gold Nutrition**](http://goldnutrition.pt/)
+   - Fruta fresca
    - Café (cápsula).
 
 5. 💩 **LIXO coloca-se em recipiente próprio**, e a querida organização irá ter caixotes do lixo na zona de transição.
