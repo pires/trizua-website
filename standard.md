@@ -11,7 +11,7 @@ Se a distância Sprint já não te entusiasma e o *half* te assusta, temos um *o
 
 # Natação
 
-**1 volta de 1.6km de natação em águas abertas** na lagoa da Barrinha, balizada por bóias (nadar do lado direito da bóia). Fato isotérmico não é necessário nesta altura do ano, mas recomendamos que tragas *just in case*.
+**1 volta de 1.6km de natação em águas abertas** na lagoa da Barrinha, balizada por bóias (nadar do lado direito da bóia). Fato isotérmico não é necessário nesta altura do ano, mas recomendamos que tragas, principalmente se não estiveres à vontade com este segmento, mas também no caso de chover nos dias antecedentes e por conseguinte a temperatura da água descer.
 
 <img src="/assets/img/standard_swim_map.png" alt="Percurso de Natação">
 

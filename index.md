@@ -33,6 +33,7 @@ Não, não há *Race Ranger*. Mas há uma espécie de *código de conduta* que p
 1. O local de transição é o mesmo em todas as disciplinas, sendo que também marca o início e a meta do treino.
 
 2. 💀 **Cada atleta é responsável pela sua integridade física** 💀
+   1. Ainda assim, e porque o perigo da natação está sempre presente, teremos **salva-vidas profissionais** no percurso. Por favor, **respeitem qualquer ordem** vinda dos mesmos!
 
 3. Os percursos **não** estão fechados para nosso uso exclusivo, logo:
    1. Durante a natação, podem ter de se desviar de embarcações
