@@ -17,16 +17,15 @@ Se a distância Sprint já não te entusiasma e o *half* te assusta, temos um *o
 
 # Ciclismo
 
-**40km** em condições de estrada excelentes: bom alcatrão, pouco trânsito, poucas curvas e quase nenhuma elevação.
+**38km** em condições de estrada excelentes: bom alcatrão, pouco trânsito, poucas curvas e quase nenhuma elevação.
 
 **Descrição:**
 
-1. Sai da **Meta** em direcção ao ponto **Rotunda**
-2. Chegando ao ponto **Rotunda**, toma a segunda saída e segue para o **Ponto 1**
-3. Chegando ao **Ponto 1** ⚠️, retorna para o ponto **Rotunda**
-4. Chegando ao ponto **Rotunda**, toma a primeira saída e segue para o **Ponto 2**
-5. Chegando ao ponto **Ponto 2**  ⚠️, retorna para o ponto **Rotunda**
-6. Chegando ao ponto **Rotunda**, toma a segunda saída e segue para o ponto **Meta**
+- Sai da **Meta** em direcção à **Rotunda**
+- Chegando à **Rotunda**, dás **2 voltas** do seguinte percurso:
+  - Toma a segunda saída e segue para o ponto **Retorno**
+  - Chegando ao ponto **Retorno**, volta para a **Rotunda**
+- Chegando à **Rotunda**, e tendo completado as **2 voltas**, toma a segunda saída e segue para a **Meta**
 
 *Clica na imagem para fazer download do percurso*.
 <a href="/assets/courses/trizua_bike_standard.fit" title="Descarregar ficheiro FIT do percurso de Ciclismo">
