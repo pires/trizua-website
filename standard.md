@@ -33,7 +33,7 @@ Se a distância Sprint já não te entusiasma e o *half* te assusta, temos um *o
 
 # Corrida
 
-**3 voltas** a um percurso plano e rápido de 3.6km ao longo da lagoa da Barrinha, com estação de apoio n **Meta**. *Clica na imagem para fazer download do percurso*.
+**3 voltas** a um percurso plano e rápido de 3.6km ao longo da lagoa da Barrinha, com estação de apoio na **Meta**. *Clica na imagem para fazer download do percurso*.
 
 <a href="/assets/courses/trizua_run_standard.fit"  title="Descarregar ficheiro FIT do percurso de Corrida">
     <img src="/assets/img/standard_run_map.png">
