@@ -41,10 +41,10 @@ Não obstante, a querida organização disponibilizará na zona da meta/transiç
 
 ### Depois do treino
 
-- Duches fechados **por conta da organização** com água quente no **Mira Lodge Park**. 
+- Duches fechados com água quente no **Mira Lodge Park** (**por conta da organização**). 
 <img src="/assets/img/map_showers.png" alt="Mira Lodge Park" height="auto%" width="50%">
 - Massagens - ainda não sabemos muito bem como vamos gerir isto, mas vamos dar prioridade a quem tenha *queixas*.
-- Comida e bebida no **Nautic Bar - Vintage Caffé**.
+- Comes e bebes no **Nautic Bar - Vintage Caffé**.
   Os almoços dos atletas convidados ficam **por conta da organização**, sendo que os restantes assumem as suas próprias despesas.
   Se tens dúvidas, não hesites em contactar-nos por email (no fundo desta página).
 

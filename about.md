@@ -21,7 +21,7 @@ O TriZua Edição ZERO marca o primeiro triatlo em Praia de Mira digno de regist
 
 ## A Nossa Equipa
 
-Somos um grupo de novatos (mas estudiosos) do triatlo, comprometida em criar um evento que perdure pelas melhores razões na memória dos participantes.
+Somos um grupo de novatos (mas estudiosos) do triatlo, comprometido em criar um evento que perdure pelas melhores razões na memória dos participantes.
 
 ## Contacta-nos
 
