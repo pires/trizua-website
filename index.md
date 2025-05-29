@@ -11,10 +11,13 @@ cover-img: /assets/img/praia_mira_panorama_3.jpg
 **Quando:** 8 de Junho de 2025, 09:00 (Portugal continental)
 
 **Localização:** Clube Náutico da Praia de Mira, 3070-755 Praia de Mira, Portugal
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3036.3496039717193!2d-8.799109723759162!3d40.44539855389352!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd23b79ec092627f%3A0xc86f92c2c9ad218!2sClube%20N%C3%A1utico%20Praia%20De%20Mira!5e0!3m2!1sen!2spt!4v1748522246237!5m2!1sen!2spt" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+**Meta & Transição:**
 <img src="/assets/img/meta.png" alt="TriZua" width="100%" height="auto">
 
 **Estacionamento:** É à _fartazana_, [masso](about)! E fica *colado* à meta.
+Também podemos estacionar no parque de visitantes do **Mira Lodge Park**, que fica em frente à **meta** (onde a foto acima foi tirada).
 
 ## Distâncias
 
