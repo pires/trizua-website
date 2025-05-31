@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "TriZua"
+title: "Edição ZERO"
 cover-img: /assets/img/praia_mira_panorama_3.jpg
 ---
 
-# Bem-vindo ao TriZua Edição ZERO!
+Bem-vinda(o) ao **TriZua**.
 
 É com muito gosto que te receberemos para uma experiência inesquecível de convívio e triatlo no belo cenário de Praia de Mira.
 
@@ -21,10 +21,12 @@ Também podemos estacionar no parque de visitantes do **Mira Lodge Park**, que f
 
 ## Distâncias
 
-O TriZua Edição ZERO oferece duas distâncias emocionantes para desafiar atletas de todos os níveis:
+Oferecemos duas distâncias emocionantes para desafiar atletas de todos os níveis:
 
 *   [**Standard**](/standard/)
 *   [**T100**](/t100/)
+
+No entanto, e **sendo um treino sem controlo de distância e cronometragem**, estás à vontade para adaptar conforme desejes.
 
 ## *Regulamento* 🙈
 
@@ -51,7 +53,9 @@ Não, não há *Race Ranger*. Mas há uma espécie de *código de conduta* que p
 
 5. 💩 **LIXO coloca-se em recipiente próprio**, e a querida organização irá ter caixotes do lixo na zona de transição.
 
-6. Teremos um mecänico no local, para o caso de haverem problemas mecänicos.
+6. **Não existe controlo de distância e cronometragem**. Estás à vontade para adaptar os percursos conforme desejes. Queres nadar 3.9k, pedalar 40k e correr 21k? Tu é que sabes, *masso*! 
+
+7. Teremos um mecänico no local, para o caso de haverem problemas mecänicos.
 
 ### Depois do treino
 
