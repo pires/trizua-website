@@ -11,9 +11,9 @@ O TriZua é um evento de triatlo que celebra a beleza da vila de Praia de Mira e
 
 ## O que significa *Zua*?
 
-*Zua* é o nome que se dá às pessoas oriundas da Praia de Mira.
+*Zua* é o nome que se dá às pessoas oriundas da Praia de Mira. Dizem alguns Zuas que a palavra *zua* evolve da expressão *Ai Jesus*, que seria dita *Ai Jazua*.
 
-Os Zuas tratam-se carinhosamente por *masso*. Porquê? Não sabemos, mas *who cares*? O que importa é que tem piada.
+Outra característica pitoresca dos Zuas é tratarem-se todos (carinhosamente) por *masso*. Porquê? Aparentemente, o facto de muitos serem primos - ou tratarem-se como tal - leva ao uso da expressão *primasso*.
 
 ## A Nossa História
 
