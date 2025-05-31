@@ -22,7 +22,7 @@ navbar-links: # Links to show in the top navigation bar
   "T100": "/t100/"
   "Sobre": "/about/"
 
-title-img: "/assets/img/triathlon.png"
+title-img: "/assets/img/trizua.png"
 
 # Footer settings (optional, customize as per beautiful-jekyll docs)
 social-network-links:
