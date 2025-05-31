@@ -27,7 +27,7 @@ Se a distância Sprint já não te entusiasma e o *half* te assusta, temos um *o
 - Chegando à **Rotunda**, dás **2 voltas** do seguinte percurso:
   - Toma a segunda saída e segue para o ponto **Retorno**
   - Chegando ao ponto **Retorno**, volta para a **Rotunda**
-- Chegando à **Rotunda**, e tendo completado as **2 voltas**, toma a segunda saída e segue para a **Meta**
+- Chegando à **Rotunda**, e tendo completado as **2 voltas**, toma a terceira saída e segue para a **Meta**
 
 *Clica na imagem para fazer download do percurso*.
 <a href="/assets/courses/trizua_bike_standard.fit" title="Descarregar ficheiro FIT do percurso de Ciclismo">
