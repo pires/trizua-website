@@ -55,11 +55,11 @@ Não, não há *Race Ranger*. Mas há uma espécie de *código de conduta* que p
 
 6. **Não existe controlo de distância e cronometragem**. Estás à vontade para adaptar os percursos conforme desejes. Queres nadar 3.9k, pedalar 40k e correr 21k? Tu é que sabes, *masso*! 
 
-7. Teremos um mecänico no local, para o caso de haverem problemas mecänicos.
+7. Teremos um mecânico no local para o caso de haverem problemas mecânicos.
 
 ### Depois do treino
 
-1. Teremos um mecänico no local, para o caso de haverem problemas mecänicos e para uma limpeza das bikes após o treino.
+1. Teremos um mecânico no local para uma limpeza das bikes após o treino.
 
 2. Duches fechados com água quente no **Mira Lodge Park** (**por conta da organização**).
   
