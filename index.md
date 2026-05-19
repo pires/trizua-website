@@ -39,6 +39,10 @@ Esta edição tem uma única distância: **T100**.
 
 <a href="/assets/courses/trizua_run_t100.fit" title="Descarregar ficheiro FIT do percurso de Corrida">Descarregar ficheiro FIT do percurso de Corrida</a>
 
+## Inscrição
+
+A inscrição faz-se através do formulário na [**página de Inscrição**](/register/). Vai lá deixar os teus dados!
+
 ## Perguntas?
 
 Se tens dúvidas, não hesites em contactar-nos por email (no fundo desta página).
