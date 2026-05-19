@@ -1,11 +1,13 @@
 title: TriZua
+lang: pt-PT
+timezone: Europe/Lisbon
 
 keywords: "triathlon, triatlo, praia de mira, trizua, portugal"
 
 author: Zuas
 
 description: >- # this means to ignore newlines until next YAML attribute
-  TriZua Edicao ZERO
+  Triatlo TriZua em Praia de Mira — Edição UM a 31 de Maio de 2026, distância T100.
 
 url: 'https://trizua.com'
 baseurl: ''
@@ -13,16 +15,14 @@ baseurl: ''
 
 # Build settings
 theme: beautiful-jekyll-theme
-gem "github-pages", "~> 232", group: :jekyll_plugins
 
 # Beautiful Jekyll specific settings (customize as needed)
 navbar-links: # Links to show in the top navigation bar
   "Início": "/"
-  "Standard": "/standard/"
-  "T100": "/t100/"
   "Sobre": "/about/"
 
 title-img: "/assets/img/trizua.png"
+share-img: "/assets/img/praia_mira_panorama_3.jpg"
 
 # Footer settings (optional, customize as per beautiful-jekyll docs)
 social-network-links:
@@ -49,3 +49,6 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - CLAUDE.md
+  - README.md
+  - Taskfile.yml
