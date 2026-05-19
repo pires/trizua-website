@@ -19,6 +19,7 @@ theme: beautiful-jekyll-theme
 # Beautiful Jekyll specific settings (customize as needed)
 navbar-links: # Links to show in the top navigation bar
   "Início": "/"
+  "Inscrição": "/register/"
   "Sobre": "/about/"
 
 title-img: "/assets/img/trizua.png"
