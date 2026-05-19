@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(command -v task)",
+      "Bash(task --list)",
+      "Bash(podman machine *)",
+      "Bash(task update *)",
+      "Bash(task build *)",
+      "Bash(curl -s http://localhost:4000/)",
+      "Bash(podman stop *)",
+      "Bash(podman ps *)",
+      "Bash(podman logs *)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" http://localhost:4000/)",
+      "Bash(podman run *)",
+      "Bash(curl -s -o /dev/null -w \"HTTP %{http_code}\\\\n\" http://localhost:4000/)",
+      "Bash(podman exec *)",
+      "Bash(curl -sI http://localhost:4000/assets/img/praia_mira_panorama_3.jpg)",
+      "Bash(curl -s http://localhost:4000/about/)",
+      "Bash(curl -s http://localhost:4000/404.html)",
+      "WebFetch(domain:forms.gle)"
+    ]
+  }
+}

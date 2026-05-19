@@ -1,0 +1,93 @@
+# Taskfile for running Jekyll inside Podman, so contributors don't need
+# a local Ruby toolchain. See README.md for setup and usage.
+#
+# Requires: https://taskfile.dev and https://podman.io
+# Run `task --list` to see available targets.
+
+version: '3'
+
+vars:
+  # Matches the Ruby version used by the GitHub Pages build workflow
+  # (.github/workflows/jekyll.yml).
+  IMAGE: docker.io/library/ruby:3.4.1
+  # Gems are installed into ./vendor/bundle so they persist across runs
+  # and survive container removal. This path is already gitignored.
+  BUNDLE_PATH: /site/vendor/bundle
+
+tasks:
+  default:
+    cmds:
+      - task --list
+    silent: true
+
+  install:
+    desc: Install Ruby gems into ./vendor/bundle (run after Gemfile changes)
+    cmds:
+      - >-
+        podman run --rm
+        -v {{.TASKFILE_DIR}}:/site:Z
+        -w /site
+        -e BUNDLE_PATH={{.BUNDLE_PATH}}
+        {{.IMAGE}}
+        bundle install
+
+  serve:
+    desc: Run Jekyll dev server with live reload at http://localhost:4000
+    deps: [install]
+    cmds:
+      - >-
+        podman run --rm -it
+        -v {{.TASKFILE_DIR}}:/site:Z
+        -w /site
+        -e BUNDLE_PATH={{.BUNDLE_PATH}}
+        -p 4000:4000
+        -p 35729:35729
+        {{.IMAGE}}
+        bundle exec jekyll serve --host 0.0.0.0 --livereload
+
+  build:
+    desc: One-shot production build to ./_site
+    deps: [install]
+    cmds:
+      - >-
+        podman run --rm
+        -v {{.TASKFILE_DIR}}:/site:Z
+        -w /site
+        -e BUNDLE_PATH={{.BUNDLE_PATH}}
+        -e JEKYLL_ENV=production
+        {{.IMAGE}}
+        bundle exec jekyll build
+
+  update:
+    desc: Update gems (refreshes Gemfile.lock) — commit the result
+    cmds:
+      - >-
+        podman run --rm
+        -v {{.TASKFILE_DIR}}:/site:Z
+        -w /site
+        -e BUNDLE_PATH={{.BUNDLE_PATH}}
+        {{.IMAGE}}
+        bundle update
+
+  shell:
+    desc: Open a bash shell inside the Jekyll container for debugging
+    cmds:
+      - >-
+        podman run --rm -it
+        -v {{.TASKFILE_DIR}}:/site:Z
+        -w /site
+        -e BUNDLE_PATH={{.BUNDLE_PATH}}
+        -p 4000:4000
+        -p 35729:35729
+        {{.IMAGE}}
+        bash
+
+  clean:
+    desc: Remove generated site and Jekyll caches (keeps vendor/bundle)
+    cmds:
+      - rm -rf _site .jekyll-cache .jekyll-metadata .sass-cache
+
+  clean-all:
+    desc: Also remove vendored gems — next `task install` will be a full reinstall
+    cmds:
+      - rm -rf _site .jekyll-cache .jekyll-metadata .sass-cache vendor
