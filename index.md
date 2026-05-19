@@ -40,8 +40,15 @@ Esta edição tem uma única distância: **T100**.
 <a href="/assets/courses/trizua_run_t100.fit" title="Descarregar ficheiro FIT do percurso de Corrida">Descarregar ficheiro FIT do percurso de Corrida</a>
 
 ## Inscrição
+{: #register }
 
-A inscrição faz-se através do formulário na [**página de Inscrição**](/register/). Vai lá deixar os teus dados!
+> ⚠️ Antes de te inscreveres, dá uma vista de olhos pela [**página Sobre**](/about/) — contém o regulamento e tudo o que precisas para que côrra p'lo melhor.
+
+<p style="text-align:center; margin: 2em 0;">
+  <a href="https://forms.gle/v4t66ZFxpj9Lq6746" target="_blank" rel="noopener" style="display:inline-block; padding: 0.8em 2em; background:#0085A1; color:#fff; border-radius:6px; font-weight:bold; text-decoration:none; font-size:1.1em;">Abrir formulário de inscrição ↗</a>
+</p>
+
+O formulário abre numa nova janela.
 
 ## Perguntas?
 
